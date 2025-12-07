@@ -1,0 +1,8 @@
+{
+  "name": "Agricultura IA",
+  "description": "Seu assistente agronômico inteligente para diagnóstico de pragas, doenças e recomendação de defensivos para diversas culturas.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
